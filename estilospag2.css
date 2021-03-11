@@ -1,0 +1,35 @@
+body {
+    background-color: #d3e1d2;
+}
+
+h1 {
+    color: #0400ff;
+    font-weight: bold;
+}
+
+.banner {
+    background-image: url(img/Red-Dead.jpg);
+    background-size: 1400px;
+}
+
+.Titulo2 {
+    font-size: 175px;
+    color: #f24b4b85;
+}
+
+h3 {
+    font-family: 'Akaya Telivigala', cursive;
+    color: #0400ff;
+    font-weight: bold;
+}
+
+p {
+    font-weight: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+    background-color: #3a383a;
+    color: white;
+    text-align: center;
+}

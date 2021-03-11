@@ -4,3 +4,9 @@ h1 {
     color: #EB5F14;
     font-family: 'Redressed', cursive;
 }
+
+footer {
+    background-color: #3a383a;
+    color: white;
+    text-align: center;
+}

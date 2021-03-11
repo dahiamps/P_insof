@@ -1,0 +1,35 @@
+body {
+    background-color: #58acd344;
+}
+
+.banner {
+    background-image: url(img/kratoss.jpg);
+    background-size: 700px;
+}
+
+h1 {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.Titulo2 {
+    font-size: 275px;
+    color: #58acd3b6;
+}
+
+h3 {
+    font-family: 'Akaya Telivigala', cursive;
+    color: #0400ff;
+    font-weight: bold;
+}
+
+p {
+    font-weight: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+    background-color: #3a383a;
+    color: white;
+    text-align: center;
+}
