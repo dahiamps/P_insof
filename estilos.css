@@ -1,12 +1,29 @@
 p {
     font-size: 20px;
-    font-family: 'Redressed', cursive;
+    
 }
 
 h1 {
+    font-size: 50px;
+    text-align: center;
     color: #EB5F14;
+    font-family: 'Redressed', cursive;
 }
 
-body{
-    background-color: #c984e43b;
+body {
+    background-color: hsl(0, 0%, 100%);
+}
+
+img{
+    height: 555px;
+}
+
+.subtitulo{
+    color: #ee2157;
+    font-size: 35px;
+}
+
+footer{
+    background-color: #3a383a;
+    color: white;
 }
